@@ -1,0 +1,6 @@
+{
+  "name": "Ferrari, Legends vs the world",
+  "description": "A high-speed Pac-Man style retro arcade game featuring classic Ferrari legends facing off against the all-electric Luce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
