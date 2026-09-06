@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Ferrari-Legends-vs-the-world/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
